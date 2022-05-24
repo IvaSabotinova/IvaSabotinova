@@ -5,3 +5,8 @@
 - 📫 How to reach me: aziva@yahoo.com
 - 😄 Pronouns: Съботинова :smile:
 - ⚡ Fun fact: No background knowledge or experience with programming before SoftUni :grinning:
+
+
+------------------------------------------------------------------------------------------------------------
+
+:scroll: ### Certificates from SoftUni:
