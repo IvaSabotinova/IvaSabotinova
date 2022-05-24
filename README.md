@@ -9,4 +9,6 @@
 
 ------------------------------------------------------------------------------------------------------------
 
-:scroll: ### Certificates from SoftUni:
+### :scroll: Certificates from SoftUni:
+
+[Programming Basics - July 2021]([url](https://softuni.bg/certificates/details/112155/fd09cdf2))
