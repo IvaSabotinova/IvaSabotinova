@@ -4,5 +4,4 @@
 - :technologist: My projects are available at https://github.com/IvaSabotinova
 - 📫 How to reach me: aziva@yahoo.com
 - 😄 Pronouns: Съботинова :smile:
-- ⚡ Fun fact: No bakcgraound experience with programming before SoftUni :grinning:
-
+- ⚡ Fun fact: No background experience with programming before SoftUni :grinning:
