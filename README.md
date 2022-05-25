@@ -22,3 +22,10 @@
 [C# Advanced - January 2022](https://softuni.bg/certificates/details/123628/124e830e)
 
 [C# OOP - February 2022](https://softuni.bg/certificates/details/130965/a3dc9e4a)
+
+----------------------------------------------------------------------------------------------------------
+
+### 📈 Github Stats
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=IvaSabotinova&theme=onedark&show_icons=true&count_private=true)
