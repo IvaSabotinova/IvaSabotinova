@@ -21,7 +21,7 @@
  |   :pushpin: Programming Fundamentals with C# - September 2021   | [:scroll: :heavy_check_mark:](https://softuni.bg/certificates/details/119950/b1b4d332)|
  |:pushpin: C# Advanced - January 2022  |           [:scroll: :heavy_check_mark:](https://softuni.bg/certificates/details/123628/124e830e) |               
  |   :pushpin: C# OOP - February 2022  |         [:scroll: :heavy_check_mark:](https://softuni.bg/certificates/details/130965/a3dc9e4a) |                 
-
+ |   :pushpin: MS SQL - May 2022  |         [:scroll: :heavy_check_mark:](https://softuni.bg/certificates/details/134813/b4968606) |   
 
 ----------------------------------------------------------------------------------------------------------
 
