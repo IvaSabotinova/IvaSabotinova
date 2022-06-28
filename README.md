@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C# and MS SQL at Software University!
+- 🌱 I’m currently learning MS SQL and Entity Framework Core at Software University!
 
 - :technologist: My projects are available at https://github.com/IvaSabotinova
 
