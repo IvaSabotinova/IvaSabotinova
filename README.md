@@ -36,15 +36,13 @@
 
 ----------------------------------------------------------------------------------------------------------
 
-### Programming Languages And Technologies
-
-
+### :link:		Programming Languages And Technologies
 <div align="lefr">  
-<img style="margin: 10px" src="https://www.svgrepo.com/show/353622/c-sharp.svg" alt="C#" height="50" />  &nbsp;&nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  &nbsp;&nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />&nbsp;&nbsp;
-<img style="margin: 10px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="50" />&nbsp;&nbsp;
-<img style="margin: 10px" src="https://www.svgrepo.com/show/354520/visual-studio.svg" alt="VisualStudio" height="50" />  &nbsp;&nbsp;
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="Github" height="50" />  &nbsp;&nbsp;
+<img style="margin: 100px" src="https://www.svgrepo.com/show/353622/c-sharp.svg" alt="C#" height="50" />  &nbsp;&nbsp;
+<img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  &nbsp;&nbsp;
+<img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />&nbsp;&nbsp;
+<img style="margin: 100px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="50" />&nbsp;&nbsp;
+<img style="margin: 100px" src="https://www.svgrepo.com/show/354520/visual-studio.svg" alt="VisualStudio" height="50" />  &nbsp;&nbsp;
+<img style="margin: 100px" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="Github" height="50" />  &nbsp;&nbsp;
 </div>
 
