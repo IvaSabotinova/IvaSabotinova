@@ -45,16 +45,12 @@
 <img style="margin: 100px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="50" /> &nbsp;&nbsp;
 <img style="margin: 100px" src="https://kmyr.dev/posts/visual-studio.png" alt="VisualStudio" height="55" />  &nbsp;&nbsp;
 <img style="margin: 100px" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="Github" height="50" />  &nbsp;&nbsp;
-
-
-
 </div>
 
 
 <br/>  
 <br/>  
-  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=IvaSabotinova&&style=flat-square" align="center" />
+</div>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=IvaSabotinova&&style=flat-square)  
-  
-<br/>  
