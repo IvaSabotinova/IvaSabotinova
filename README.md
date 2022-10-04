@@ -28,7 +28,7 @@
 ### 📈 Github Stats
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=IvaSabotinova&theme=onedark&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=IvaSabotinova)
 
 ----------------------------------------------------------------------------------------------------------
 ### 📈 Language Card
