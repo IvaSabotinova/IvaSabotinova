@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ASP.NET as well as HTML / CSS in Software University!
+- 🌱 I’m currently learning HTML / CSS in Software University!
 
 - :technologist: My projects are available at https://github.com/IvaSabotinova
 
