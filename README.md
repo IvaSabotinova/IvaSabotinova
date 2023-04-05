@@ -25,7 +25,7 @@
  |   :pushpin: Entity Framework Core - June 2022  |         [:scroll: :heavy_check_mark:](https://softuni.bg/certificates/details/138330/35bbe7af) |  
  |   :pushpin: ASP.NET Fundamentals - September 2022  |         [:scroll: :heavy_check_mark:](https://softuni.bg/certificates/details/146541/400e5a7d) |   
  |   :pushpin: ASP.NET Advanced - October 2022  |         [:scroll: :heavy_check_mark:](https://softuni.bg/certificates/details/153275/8ca625b8) |   
-
+ |   :pushpin: HTML & CSS - January 2023  |         [:scroll: :heavy_check_mark:](https://softuni.bg/certificates/details/163232/c9cf04a8) |   
 ----------------------------------------------------------------------------------------------------------
 ### 📈 Github Stats
 
