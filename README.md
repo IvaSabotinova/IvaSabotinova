@@ -47,6 +47,7 @@
 <img style="margin: 100px" src="https://w7.pngwing.com/pngs/673/239/png-transparent-entity-framework-core-asp-net-core-net-framework-microsoft-blue-text-logo-thumbnail.png" alt="ASP.NET Core" height="58" />  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <img style="margin: 100px" src="https://www.svgrepo.com/show/353884/html-5.svg" alt="HTML" height="59" /> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <img style="margin: 100px" src="https://www.svgrepo.com/show/303481/css-3-logo.svg" alt="CSS" height="59" />  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+ <img style="margin: 100px" src="https://logosdownload.com/logo/javascript-logo-big.png" alt="JS" height="59" />  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <img style="margin: 100px" src="https://www.css-oc.com/images/Microsoft%20NET.png" alt=".NET" height="70" />  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="57" /> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <img style="margin: 100px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="57" /> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
