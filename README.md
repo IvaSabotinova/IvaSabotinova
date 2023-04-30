@@ -3,6 +3,7 @@
 ### Hi there 👋
 
 
+
 - 🌱 I’m currently learning JavaScript in Software University!
 
 - :technologist: My projects are available at https://github.com/IvaSabotinova
@@ -12,7 +13,6 @@
 - 😄 Pronouns: Съботинова :smile:
 
 - ⚡ Fun fact: No background knowledge or experience with programming before SoftUni :grinning:
-
 
 
 
