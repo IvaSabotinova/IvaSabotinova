@@ -12,7 +12,7 @@
 
 - :technologist: My projects are available at https://github.com/IvaSabotinova
 
-- 📫 How to reach me: aziva@yahoo.com
+- 📫 How to reach me: ivasabotinova@gmail.com
 
 - 😄 Pronouns: Съботинова :smile:
 
