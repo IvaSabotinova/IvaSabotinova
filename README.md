@@ -14,8 +14,6 @@
 
 - ⚡ Fun fact: No background knowledge or experience with programming before SoftUni :grinning:
 
-
-
 ------------------------------------------------------------------------------------------------------------
 
 ### :woman_student: Passed Courses And Certificates from SoftUni:
