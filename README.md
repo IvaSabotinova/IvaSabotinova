@@ -22,7 +22,7 @@
   <div align="center" >
   
 ### :woman_student: Passed Courses And Certificates from SoftUni:
-</div>
+
 
 | Courses                            | Certificates   |  Courses                            | Certificates   |  
 | :--- | :---| :--- | :---|
@@ -32,22 +32,22 @@
  |   :pushpin: C# OOP - February 2022  |         [:scroll: :heavy_check_mark:](https://softuni.bg/certificates/details/130965/a3dc9e4a) |      :pushpin: HTML & CSS - January 2023  |         [:scroll: :heavy_check_mark:](https://softuni.bg/certificates/details/163232/c9cf04a8) |              
  |   :pushpin: MS SQL - May 2022  |         [:scroll: :heavy_check_mark:](https://softuni.bg/certificates/details/134813/b4968606) |  
   
+ </div>
+ 
 ----------------------------------------------------------------------------------------------------------
-### 📈 Github Stats
+ <h2 align="center">📈 Github Stats</h2>
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvaSabotinova&theme=onedark&show_icons=true&count_private=true" align = "center"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvaSabotinova&theme=onedark&layout=compact&card_width=420" align = "center"/>
+</p>
 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=IvaSabotinova&theme=onedark&show_icons=true&count_private=true)
 
 ----------------------------------------------------------------------------------------------------------
-### 📈 Language Card
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=IvaSabotinova&theme=onedark)
-
-----------------------------------------------------------------------------------------------------------
+<div align="center">  
 
 ### :link:		Programming Languages And Technologies
 <br>
-<div align="center">  
+
 <img style="margin: 100px" src="https://www.svgrepo.com/show/353622/c-sharp.svg" alt="C#" height="57" />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img style="margin: 100px" src="https://camo.githubusercontent.com/d9f950ba0f1c29205b248fef8c1b19bdf16fdb8358dd364f72f036acb24a46a8/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a313968447578393171706f53686665377458453578672e706e67" alt=".NET" height="57" />  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <img style="margin: 100px" src="https://w7.pngwing.com/pngs/673/239/png-transparent-entity-framework-core-asp-net-core-net-framework-microsoft-blue-text-logo-thumbnail.png" alt="ASP.NET Core" height="58" />  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
