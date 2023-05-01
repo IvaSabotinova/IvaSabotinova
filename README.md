@@ -38,7 +38,7 @@
  <h2 align="center">📈 Github Stats</h2>
 <p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=IvaSabotinova&theme=onedark&show_icons=true&count_private=true" align = "center"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvaSabotinova&theme=onedark&layout=compact&card_width=390" align = "center"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvaSabotinova&theme=onedark&layout=compact&card_width=350" align = "center"/>
 </p>
 
 
