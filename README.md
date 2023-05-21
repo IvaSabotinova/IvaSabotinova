@@ -26,7 +26,7 @@
 
 | Courses                            | Certificates   |  Courses                            | Certificates   |  
 | :--- | :---| :--- | :---|
-|:pushpin: Programming Basics with C# - July 2021      | [:scroll: :heavy_check_mark:](https://softuni.bg/certificates/details/112155/fd09cdf2)|:pushpin: Entity Framework Core - June 2022  |         [:scroll: :heavy_check_mark:](https://softuni.bg/certificates/details/138330/35bbe7af) |  
+|:pushpin: C# Basics - July 2021      | [:scroll: :heavy_check_mark:](https://softuni.bg/certificates/details/112155/fd09cdf2)|:pushpin: Entity Framework Core - June 2022  |         [:scroll: :heavy_check_mark:](https://softuni.bg/certificates/details/138330/35bbe7af) |  
  |   :pushpin: C# Fundamentals - September 2021   | [:scroll: :heavy_check_mark:](https://softuni.bg/certificates/details/119950/b1b4d332)|:pushpin: ASP.NET Fundamentals - September 2022  |         [:scroll: :heavy_check_mark:](https://softuni.bg/certificates/details/146541/400e5a7d) |   
  |:pushpin: C# Advanced - January 2022  |           [:scroll: :heavy_check_mark:](https://softuni.bg/certificates/details/123628/124e830e) |  :pushpin: ASP.NET Advanced - October 2022  |         [:scroll: :heavy_check_mark:](https://softuni.bg/certificates/details/153275/8ca625b8) |                
  |   :pushpin: C# OOP - February 2022  |         [:scroll: :heavy_check_mark:](https://softuni.bg/certificates/details/130965/a3dc9e4a) |      :pushpin: HTML & CSS - January 2023  |         [:scroll: :heavy_check_mark:](https://softuni.bg/certificates/details/163232/c9cf04a8) |              
