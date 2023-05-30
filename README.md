@@ -30,7 +30,7 @@
  |   :pushpin: C# Fundamentals - September 2021   | [:scroll: :heavy_check_mark:](https://softuni.bg/certificates/details/119950/b1b4d332)|:pushpin: ASP.NET Fundamentals - September 2022  |         [:scroll: :heavy_check_mark:](https://softuni.bg/certificates/details/146541/400e5a7d) |   
  |:pushpin: C# Advanced - January 2022  |           [:scroll: :heavy_check_mark:](https://softuni.bg/certificates/details/123628/124e830e) |  :pushpin: ASP.NET Advanced - October 2022  |         [:scroll: :heavy_check_mark:](https://softuni.bg/certificates/details/153275/8ca625b8) |                
  |   :pushpin: C# OOP - February 2022  |         [:scroll: :heavy_check_mark:](https://softuni.bg/certificates/details/130965/a3dc9e4a) |      :pushpin: HTML & CSS - January 2023  |         [:scroll: :heavy_check_mark:](https://softuni.bg/certificates/details/163232/c9cf04a8) |              
- |   :pushpin: MS SQL - May 2022  |         [:scroll: :heavy_check_mark:](https://softuni.bg/certificates/details/134813/b4968606) |  
+ |   :pushpin: MS SQL - May 2022  |         [:scroll: :heavy_check_mark:](https://softuni.bg/certificates/details/134813/b4968606) |  :pushpin: JS Front-End - February 2023  |         [:scroll: :heavy_check_mark:](https://softuni.bg/certificates/details/170810/3c0554d2) | 
   
  </div>
  
