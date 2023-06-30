@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning JavaScript in Software University!
+- 🌱 I’m currently learning Data Structures and Algorithms in SoftUni! My next stop - React :smiley:
 
 - :technologist: My projects are available at https://github.com/IvaSabotinova
 
