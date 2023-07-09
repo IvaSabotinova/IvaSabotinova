@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning JavaScript in SoftUni! My next stop - React :smiley:
+- 🌱 I’m currently learning JavaScript in Software  University! My next stop - React :smiley:
 
 - :technologist: My projects are available at https://github.com/IvaSabotinova
 
