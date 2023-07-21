@@ -55,7 +55,6 @@
 
 <div align="center">  
  
-### 🤝 Connect with me: &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/iva-sabotinova-743937273/"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="IvaSabotinova" width="88px"/></a> 
+### 🤝 Connect with me: &nbsp; <a href="https://www.linkedin.com/in/iva-sabotinova-743937273/"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="IvaSabotinova" width="88px"/></a> 
 
 </div>
-
