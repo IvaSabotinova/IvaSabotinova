@@ -18,10 +18,7 @@
 
 - ⚡ Fun fact: No background knowledge or experience with programming before SoftUni :grinning:
 
-
-
 ------------------------------------------------------------------------------------------------------------
-
  
  <h2 align="center">📈 Github Stats</h2>
 <p align="center">
@@ -51,6 +48,14 @@
 <img style="margin: 100px" src="https://kmyr.dev/posts/visual-studio.png" alt="VisualStudio" height="49" />  &nbsp;&nbsp;
 <img style="margin: 100px" src="https://freelancervietnam.vn/wp-content/uploads/2020/01/avatar2.jpg" alt="Visual Studio Code" height="55" />   &nbsp;&nbsp;&nbsp;
 <img style="margin: 100px" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="Github" height="50" />  &nbsp;&nbsp;&nbsp;
+
+</div>
+
+------------------------------------------------------------------------------------------------------------
+
+<div align="center">  
+ 
+### 🤝 Connect with me: &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/iva-sabotinova-743937273/"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="IvaSabotinova" width="88px"/></a> 
 
 </div>
 
