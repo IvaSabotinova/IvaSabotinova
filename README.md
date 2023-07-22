@@ -22,12 +22,12 @@
  
  <h2 align="center">📈 Github Stats</h2>
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=IvaSabotinova&theme=&show_icons=true&count_private=true" align = "center"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvaSabotinova&theme=&layout=compact&card_width=350" align = "center"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=IvaSabotinova&theme=swift&show_icons=true&count_private=true" align = "center"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvaSabotinova&theme=swift&layout=compact&card_width=350" align = "center"/>
 </p>
 
-
 ----------------------------------------------------------------------------------------------------------
+
 <div align="center">  
 
 ### :link:		Programming Languages And Technologies
