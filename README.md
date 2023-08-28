@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Web Api** concepts in **Udemy!** My next stop - **React** :smiley:
+- 🌱 I’m currently working on my **Book Shop** project using **ASP .Net Core MVC!** My next stop - **React** :smiley:
 
 - :technologist: My projects are available at https://github.com/IvaSabotinova
 
