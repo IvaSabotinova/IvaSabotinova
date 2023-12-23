@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently working on my project **Movies** :smiley:
+- 🌱 I’m currently working on my **Movies-App** project :smiley:
 
 - :technologist: My projects are available at https://github.com/IvaSabotinova
 
