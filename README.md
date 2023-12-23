@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **ReactJs**  in SoftUni :smiley:
+- 🌱 I’m currently working on my project **Movies** :smiley:
 
 - :technologist: My projects are available at https://github.com/IvaSabotinova
 
