@@ -1,4 +1,4 @@
-<img align="right" width="390" height="270" src="https://loveableproduct.com/wp-content/uploads/2023/04/tpm.gif" />
+<img align="right" width="360" height="270" src="https://loveableproduct.com/wp-content/uploads/2023/04/tpm.gif" />
 
  <div align="center" >
    
