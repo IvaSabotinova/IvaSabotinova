@@ -34,12 +34,13 @@
 <br>
 
 <img style="margin: 100px" src="https://www.svgrepo.com/show/353622/c-sharp.svg" alt="C#" height="50" />  &nbsp;&nbsp;&nbsp;
-<img style="margin: 100px" src="https://camo.githubusercontent.com/d9f950ba0f1c29205b248fef8c1b19bdf16fdb8358dd364f72f036acb24a46a8/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a313968447578393171706f53686665377458453578672e706e67" alt=".NET" height="50" />  &nbsp;&nbsp; &nbsp;
 <img style="margin: 100px" src="https://w7.pngwing.com/pngs/673/239/png-transparent-entity-framework-core-asp-net-core-net-framework-microsoft-blue-text-logo-thumbnail.png" alt="ASP.NET Core" height="58" />  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+<img style="margin: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="ReactJs" height="50" />  &nbsp;&nbsp; &nbsp;
+ <img style="margin: 100px" src="https://logosdownload.com/logo/javascript-logo-big.png" alt="JS" height="55" />  &nbsp;&nbsp; &nbsp;
 <img style="margin: 100px" src="https://www.svgrepo.com/show/353884/html-5.svg" alt="HTML" height="55" /> &nbsp;&nbsp; &nbsp;
 <img style="margin: 100px" src="https://www.svgrepo.com/show/303481/css-3-logo.svg" alt="CSS" height="55" />  &nbsp;&nbsp; &nbsp;
  <img style="margin: 100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="55" />  &nbsp;&nbsp; &nbsp;
- <img style="margin: 100px" src="https://logosdownload.com/logo/javascript-logo-big.png" alt="JS" height="55" />  &nbsp;&nbsp; &nbsp;
+
 <img style="margin: 100px" src="https://www.css-oc.com/images/Microsoft%20NET.png" alt=".NET" height="60" />  &nbsp;&nbsp; &nbsp;
 <img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /> &nbsp;&nbsp; &nbsp;
 <img style="margin: 100px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="50" /> &nbsp;&nbsp; &nbsp;
