@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently studying **Angular** :smiley:
+- 🌱 I’m currently learning **Angular** :smiley:
 
 - :technologist: My projects are available at https://github.com/IvaSabotinova
 
