@@ -35,7 +35,8 @@
 
 <img style="margin: 100px" src="https://www.svgrepo.com/show/353622/c-sharp.svg" alt="C#" height="50" />  &nbsp;&nbsp;&nbsp;
 <img style="margin: 100px" src="https://github.com/IvaSabotinova/IvaSabotinova/assets/96121572/fd448176-0631-4a74-9941-26079de2609a" alt="ASP.NET Core" height="60" />  &nbsp;&nbsp; &nbsp;
-<img style="margin: 100px" src="https://github.com/IvaSabotinova/IvaSabotinova/assets/96121572/351804a2-9ac2-4501-a477-4de8ff2bb0b9" alt="ASP.NET Core" height="60" />  &nbsp;&nbsp; &nbsp;
+<img style="margin: 100px" src="https://github.com/IvaSabotinova/IvaSabotinova/assets/96121572/351804a2-9ac2-4501-a477-4de8ff2bb0b9" alt="Web API" height="60" />  &nbsp;&nbsp; &nbsp;
+<img style="margin: 100px" src="https://github.com/user-attachments/assets/ec831e74-fae8-49b7-be60-4ca3974dd3e1" alt="Angulat JS" height="60" />  &nbsp;&nbsp; &nbsp;
 <img style="margin: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="ReactJs" height="50" />  &nbsp;&nbsp; &nbsp;
  <img style="margin: 100px" src="https://logosdownload.com/logo/javascript-logo-big.png" alt="JS" height="55" />  &nbsp;&nbsp; &nbsp;
 <img style="margin: 100px" src="https://www.svgrepo.com/show/353884/html-5.svg" alt="HTML" height="55" /> &nbsp;&nbsp; &nbsp;
