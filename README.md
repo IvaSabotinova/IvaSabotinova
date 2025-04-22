@@ -46,7 +46,7 @@
 <img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /> &nbsp;&nbsp; &nbsp;
 <img style="margin: 100px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="50" /> &nbsp;&nbsp; &nbsp;
 <img style="margin: 100px" src="https://kmyr.dev/posts/visual-studio.png" alt="VisualStudio" height="49" />  &nbsp;&nbsp;
-<img style="margin: 100px" src="https://freelancervietnam.vn/wp-content/uploads/2020/01/avatar2.jpg" alt="Visual Studio Code" height="55" />   &nbsp;&nbsp;&nbsp;
+<img style="margin: 100px" src="https://github.com/user-attachments/assets/209c8412-c3ba-4e78-ab03-0d1fdaa68b0c" alt="Visual Studio Code" height="55" />   &nbsp;&nbsp;&nbsp;
 <img style="margin: 100px" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="Github" height="50" />  &nbsp;&nbsp;&nbsp;
 
 </div>
